@@ -1,4 +1,4 @@
-# Penguins Text-to-Speech AdaBoost Project
+# Penguins AdaBoost Project
 
 ## Overview
 
