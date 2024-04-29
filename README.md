@@ -1,4 +1,4 @@
-# Penguins AdaBoost Project
+# Machine Learning - AdaBoost Implementation - Penguins Project
 
 ## Overview
 
